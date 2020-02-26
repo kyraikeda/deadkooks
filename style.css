@@ -6,8 +6,8 @@
 }
 
 .ui.centered.grid.container {
-  padding-left: 80px;
-  padding-right: 80px;
+  margin-left: 80px;
+  margin-right: 80px;
   padding-top: 20px;
   padding-bottom: 20px;
 }
