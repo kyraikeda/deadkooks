@@ -31,12 +31,12 @@ img {
 }
 
 .top {
-  font-weight: bolder;
+  font-weight: bold;
   font-size: 20px;
 }
 
 .bottom {
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .ui.labeled.input.email {
