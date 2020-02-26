@@ -1,0 +1,42 @@
+.ui.borderless.topmenu.menu.container {
+  background-color: white;
+  box-shadow: none;
+  border: none;
+  padding-top: 1em;
+}
+
+.ui.centered.grid.container {
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.footer.divider {
+  margin-top: 100px;
+  padding-top: 5em;
+  padding-bottom: 5em;
+  background-color: rgba(0, 0, 0, 0.05);
+  border: none;
+}
+
+img {
+  width: 13%;
+}
+
+.right.item.magglass {
+  margin-left: 30px;
+}
+
+.top {
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+.bottom {
+  font-size: 12px;
+}
+
+.ui.labeled.input.email {
+  padding-top: 3em;
+}
