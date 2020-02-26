@@ -1,13 +1,15 @@
-.ui.borderless.topmenu.menu.container {
+.ui.borderless.topmenu.menu {
   background-color: white;
   box-shadow: none;
   border: none;
   padding-top: 1em;
+  padding-left: 3em;
+  padding-right: 3em;
 }
 
 .ui.centered.grid.container {
-  /*padding-left: 80px;*/
-  /*padding-right: 80px;*/
+  padding-left: 80px;
+  padding-right: 80px;
   padding-top: 20px;
   padding-bottom: 20px;
 }
